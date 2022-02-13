@@ -37,7 +37,7 @@
 
 ## 멀티 쓰레드 ( > 멀티 프로세스)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b5b7d137-660d-4bb2-9e7c-210aa3af3d8a/Untitled.png)
+![multi_process](/운영체제/프로세스와%20쓰레드/조영래/image/multi_thread.png)
 
 - 하나의 프로그램 안에서 여러 스레드를 구성해 각 스레드마다 작업을 처리하는 것
 - 장점
