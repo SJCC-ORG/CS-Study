@@ -1,7 +1,5 @@
 # Context Switching
 
-### Context Switching
-
 Context : CPU가 해당 프로세스를 실행하기 위한 해당 프로세스의 정보, PCB에 저장된다
 
 Switching : 말 그대로 교환
