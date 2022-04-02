@@ -8,6 +8,8 @@
 
 ## Context Switching 시나리오
 
+![context switching scenario](image/context_switching_scenario.jpeg)
+
 1. P0 프로세스가 인터럽트되면서 PCB0에 P0 프로세스의 상태 정보를 저장합니다.
 2. 다음 수행할 P1 프로세스의 PCB1에서 P1 프로세스의 상태 정보가 CPU에 재로딩됩니다.
 3. P1 프로세스를 일정 시간 수행합니다.
